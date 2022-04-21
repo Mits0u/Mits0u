@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Shinu BOT**
 
-- 🌱 I’m currently learning **soon**
+- 🌱 I’m currently learning **C#, C++**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
