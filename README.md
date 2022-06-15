@@ -6,15 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Shinu BOT**
+- 🔭 I’m currently working on **Shinju BOT**
 
 - 🌱 I’m currently learning **C#, C++**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://mitsu.com)**
+- 👨‍💻 All of my projects are available at **[not working for the moment](https://www.google.com)**
 
-- 📫 How to reach me **mitsu.contact@gmail.com**
+- 📫 How to reach me **mistu.contact@gmail.com**
 
 
 ## 🚀 Languages and Tools:
