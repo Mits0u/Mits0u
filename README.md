@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Shinju BOT<br><br>🌱 I’m currently learning Java, Lua, C#, C++<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>👨‍💻 All of my projects are available at stpoltron.live<br><br>📫 How to reach me mistu.contact@gmail.com
+🔭 I’m currently working on Shinju BOT<br><br>🌱 I’m currently learning Java, Lua, C#, C++<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>👨‍💻 All of my projects are available at <br><br>📫 How to reach me mistu.contact@gmail.com
 
 
 ## 🌐 Socials:
